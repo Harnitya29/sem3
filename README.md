@@ -26,11 +26,13 @@ A web-based Command-Line Interface inspired PDF/PPT reader with file navigation,
    Or create a new one with this structure:
 
 ## 🧠 Commands
+```
 - 69: Enter the CLI file viewer
 - help: Show list of commands
 - date: Show current date & time
 - whoami: Show browser info
 - clear: Clear terminal output
+```
 
 ## 📱 Mobile
 Burger menu toggles navigation
