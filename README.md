@@ -25,29 +25,25 @@ A web-based Command-Line Interface inspired PDF/PPT reader with file navigation,
 1. **Clone or fork this repo**  
    Or create a new one with this structure:
 
-🧠 Commands
-69: Enter the CLI file viewer
+## 🧠 Commands
+- 69: Enter the CLI file viewer
+- help: Show list of commands
+- date: Show current date & time
+- whoami: Show browser info
+- clear: Clear terminal output
 
-help: Show list of commands
-
-date: Show current date & time
-
-whoami: Show browser info
-
-clear: Clear terminal output
-
-📱 Mobile
+## 📱 Mobile
 Burger menu toggles navigation
 
 Tap outside nav to close
 
 Swipe support on touch devices
 
-📦 Offline Support
+## 📦 Offline Support
 Service worker caches core assets so the app works offline after first visit.
 
-📁 License
+## 📁 License
 MIT — feel free to use and modify.
 
-🙋 Author
+## 🙋 Author
 Made with 💻 by [69]
